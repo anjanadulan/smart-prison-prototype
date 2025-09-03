@@ -74,3 +74,16 @@ Smart-Prison-Management-System/
 └── README.md           # Project documentation
 ```
 
+---
+## Codes for arduino
+
+[Get Code from here.](Codes.md)
+
+## Prototype Preview
+
+![Image](https://github.com/user-attachments/assets/c295c55a-3f86-4800-952b-b32c07d26662)
+
+##
+
+![Image](https://github.com/user-attachments/assets/45e3fe69-bffc-478e-85d8-c447451c889c)
+
