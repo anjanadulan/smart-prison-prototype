@@ -42,6 +42,11 @@ The system reduces manual intervention, enhances safety, and provides a foundati
 
 ---
 
+## 🧠 Logics
+
+[View Logics](Logics.md)
+
+---
 ## 📈 Limitations
 - Limited sensor range and no high-level security (e.g., biometrics).  
 - No wireless or IoT connectivity.  
