@@ -31,11 +31,11 @@ This repository contains the source code for **two major subsystems** of the Sma
 | Sensor/Component | Pin |
 |------------------|------|
 | Smoke Sensor (MQ-2) | D2 |
-| Smoke Buzzer | D8 |
+| Smoke Logic Out | D8 |
 | Temperature Sensor | D3 |
-| Temperature Buzzer | D9 |
+| Temperature Logic Out | D9 |
 | LDR Sensor | A0 |
-| LDR LED | D10 |
+| LDR Logic Out | D10 |
 
 ### **Code**
 ```cpp
@@ -112,9 +112,9 @@ void loop() {
 | Sensor/Component | Pin |
 |------------------|------|
 | Indoor LDR Sensor | A0 |
-| Indoor LED | D8 |
+| Indoor Logic Out | D8 |
 | Outdoor LDR Sensor | A1 |
-| Outdoor LED | D9 |
+| Outdoor Logic Out | D9 |
 
 ### **Code**
 ```cpp
